@@ -1,31 +1,14 @@
-# React Tailwind Boilerplate 🌀
+## amberstudent task
 
-## Run Locally
+Task: Make a Testimonials component using HTML, CSS/SASS and
+React [Source: Email Recieved]
 
-Clone the project
+### Data
 
-```bash
-  git clone https://github.com/nandkk05/React-Tailwind-Boilerplate
-```
+I have been provided with the data Api from which I extracted the data using axios npm package and stored it into testimonials array using useState React Hook.
 
-Go to the project directory
+#### [Demo](https://testimonial-ui.netlify.app/)
 
-```bash
-  cd react-tailwind-boilerplate
-```
+### Load time
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-## Contributing
-
-Contributions are always welcome!
+![Testimonial component UI](https://user-images.githubusercontent.com/33036554/124659222-579f2000-dec2-11eb-8b5e-dcc63d8d9947.png)
